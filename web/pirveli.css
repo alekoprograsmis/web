@@ -1,0 +1,14 @@
+a{
+    text-decoration: none;
+}
+h1{
+    color:red;
+    transition: 1s;
+    margin-left: 900px;
+}
+h1:hover{
+    color:blue;
+}
+body{
+    background-color:gray;
+}
